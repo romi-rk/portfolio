@@ -57,6 +57,10 @@ Anyone can point a solver at geometry and get an answer. The point here was to c
 
 OpenFOAM 9 (WSL/Ubuntu) · Ansys Fluent 2026 R1 · Python (pandas, matplotlib) for post-processing and convergence plots.
 
+Use of AI
+
+Claude (Anthropic) was used as an assistant throughout this project.
+
 ## Repo structure
 
 ```
@@ -65,3 +69,4 @@ ansys-fluent/    case files, Re=20, 4 mesh levels
 results/         figures/ and tables/ (raw convergence data as CSV)
 scripts/         plot_convergence.py — regenerates the convergence plots from the CSVs
 ```
+

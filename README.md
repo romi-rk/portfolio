@@ -1,6 +1,6 @@
 # Hi, I'm Romi
 
-I'm upskilling myself by working on projects across VR/AR, autonomous systems, mechatronics, additive manufacturing, and CAD, and uploading them here as I go. This repo is a running collection of that work: course case studies and personal practice projects, each in its own folder with a README explaining what it is and what I built.
+I'm upskilling myself by working on projects across CFD, VR/AR, autonomous systems, mechatronics, additive manufacturing, and CAD, and uploading them here as I go. This repo is a running collection of that work: course case studies and personal practice projects, each in its own folder with a README explaining what it is and what I built.
 
 Reach me at romikukadiya@gmail.com.
 

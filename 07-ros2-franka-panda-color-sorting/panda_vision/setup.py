@@ -13,8 +13,6 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='utk',
-    maintainer_email='kutkarsh706@gmail.com',
     description='Color detection package for Panda robot vision (RGB object detection)',
     license='MIT',
     extras_require={

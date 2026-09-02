@@ -12,6 +12,7 @@ Reach me at romikukadiya@gmail.com.
 - **`04-electrodynamic-microphone-mechatronics/`**: a study of electrodynamic microphones plus a MATLAB simulation of a microphone diaphragm's response.
 - **`05-cfd-dfg-cylinder-benchmark/`**: a CFD validation study — flow past a cylinder solved in both OpenFOAM and Ansys Fluent, checked against published reference values with a mesh convergence study in each.
 - **`06-anpr-license-plate-recognition/`**: a full license plate detection and recognition pipeline for traffic footage, using a custom trained YOLO26 detector, SORT tracking, and EasyOCR, achieving 63% exact plate read accuracy on real UK highway video.
+- **`07-ros2-franka-panda-color-sorting/`**: A ROS 2 pick-and-place system on the Franka Emika Panda arm, combining OpenCV color detection, MoveIt 2 motion planning, and Gazebo simulation, with Docker support for one-command setup.
 - **`screw-jack-cad-practice/`**: a SolidWorks screw jack model, built as independent CAD practice.
 
 More to come as I keep learning and building.

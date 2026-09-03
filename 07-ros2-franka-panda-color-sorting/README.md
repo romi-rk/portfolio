@@ -4,9 +4,13 @@ This is a little ROS 2 project I built to learn how robotic arms, computer visio
 
 I put this together mostly to teach myself ROS 2, MoveIt 2, and OpenCV at the same time, so don't expect production-grade code, just a working project I learned a lot from.
 
-<video src="videos/demo.mp4" controls muted width="700"></video>
+[<video src="videos/demo.mp4" controls muted width="700"></video>](https://github.com/user-attachments/assets/2aed61bf-d9d3-4705-a77f-80e59e87c38f)
 
 The color detection window (top right) picks out the red, green, and blue blocks and labels each one with its detected RGB values in real time, then the arm picks each one up and drops it in its bin.
+
+
+
+
 
 ## What it actually does
 

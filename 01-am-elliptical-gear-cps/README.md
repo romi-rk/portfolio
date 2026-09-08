@@ -13,7 +13,6 @@ A parametric Lua script that generates a non-circular (elliptical) gear pair - a
 - **`EllipticalGearGenerator.lua`** - the script I wrote, parametric CAD code for the course's Lua-scriptable modeling tool. Not the full CAD project (materials, print profiles, slicer settings aren't included), just the generation logic.
 - **`elliptical_gear_set.stl`** - the exported mesh the script produces, ready to slice and print.
 - **`elevator-pitch.pdf`** - the team's hand-drawn pitch deck framing the problem (loud, jerky robotic-arm gear drives on a production line) and the product (a quieter, smoother-running elliptical gear set with a built-in variable transmission ratio).
-- **`print-submission-sheet.pdf`** - the manifest of parts submitted for printing (gear, axle, wedge, lever, baseplate).
 
 ## How the script works
 
